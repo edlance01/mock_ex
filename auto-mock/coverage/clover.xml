@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1655300172745" clover="3.2.0">
+  <project timestamp="1655300172746" name="All files">
+    <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0" elements="9" coveredelements="0" complexity="0" loc="5" ncloc="5" packages="1" files="2" classes="2"/>
+    <file name="sound-player-consumer.js" path="C:\Users\14045\Dropbox (nTier Training)\InstructorCourseware\AgileEngineering\mocks\auto-mock\src\sound-player-consumer.js">
+      <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <line num="5" count="0" type="stmt"/>
+      <line num="9" count="0" type="stmt"/>
+      <line num="10" count="0" type="stmt"/>
+    </file>
+    <file name="sound-player.js" path="C:\Users\14045\Dropbox (nTier Training)\InstructorCourseware\AgileEngineering\mocks\auto-mock\src\sound-player.js">
+      <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <line num="5" count="0" type="stmt"/>
+      <line num="9" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>
